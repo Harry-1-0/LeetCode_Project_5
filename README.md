@@ -323,4 +323,4 @@ All three C++ solutions can be submitted directly to [LeetCode #53 — Maximum S
 
 ---
 
-*Maximum Subarray Problem · Midterm Group Project · C++ section*
+*Maximum Subarray Problem · Midterm Group Project*
