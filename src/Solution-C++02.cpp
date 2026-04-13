@@ -4,6 +4,9 @@
 // 2. For each index i, dp[i] is the maximum of nums[i] and nums[i] + dp[i - 1]
 // 3. The answer is the maximum value in the dp array
 
+// Time Complexity: O(n)
+// Space Complexity: O(n)
+
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
