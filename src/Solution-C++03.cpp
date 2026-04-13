@@ -6,6 +6,9 @@
 // 4. If curSum drops below 0, reset it to 0
 // 5. Return maxSub as the result
 
+// Time Complexity: O(n)
+// Space Complexity: O(1)
+
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
